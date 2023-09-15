@@ -1,0 +1,9 @@
+Number of tests: 62
+Most used type of test: Type:
+Tests related to "component": 7
+
+Failures:
+Type		Count
+System  	0
+Performance  	0
+Functional  	0
